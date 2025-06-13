@@ -129,4 +129,6 @@ Use official onion URLs.
 Darknet markets offer anonymous transactions. By following these best practices, you can navigate these markets safely. Always verify and use encryption.
 Plase contribute and add stars to this repo.
 
-Update:  11.06.2025 11:03:03 url is now operational
+
+
+Update: Sidebar links
