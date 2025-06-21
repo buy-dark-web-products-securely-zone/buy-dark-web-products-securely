@@ -135,4 +135,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update: url is alive
+
+
+Update:  21.06.2025 Fixed broken links in API reference guide
