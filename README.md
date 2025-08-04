@@ -155,4 +155,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update:  24.07.2025 11:46 Fixed broken links in license documentation
+
+
+Update:  08/04/2025
